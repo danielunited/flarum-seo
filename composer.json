@@ -1,5 +1,5 @@
 {
-    "name": "v17development/flarum-seo",
+    "name": "danielunited/flarum-seo",
     "description": "Adds SEO tags for your Flarum forum",
     "type": "flarum-extension",
     "authors": [
