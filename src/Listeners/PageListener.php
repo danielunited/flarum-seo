@@ -439,7 +439,7 @@ class PageListener
 
         if($this->requestType === 'd/')
         {
-            $this->setSchemaJson("headline", $description);
+            $this->setSchemaJson("headline", $title);
         }
 
         return $this;
